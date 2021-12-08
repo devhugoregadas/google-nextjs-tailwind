@@ -45,7 +45,7 @@ export default function Home() {
       {/* Body */}
       <form className="flex flex-grow items-center mt-44 flex-col w-4/5">
         <Image
-          src="https://www.google.ch/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+          src="https://www.google.ch/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
           height={100}
           width={300}
           alt=""

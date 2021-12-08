@@ -23,7 +23,7 @@ function Header() {
     <header className="sticky top-0 bg-white">
       <div className="flex w-full p-6 items-center">
         <Image
-          src="https://www.google.ch/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+          src="https://www.google.ch/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
           height={40}
           width={120}
           alt=""
